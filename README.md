@@ -1,4 +1,4 @@
-<h1>NFT Proje Denemesi</h1>
+<h1>  YeşilHayat Proje Denemesi</h1>
 
 Yazılım kursunun ilk haftalarında oluşturduğum ilk projelerdendir.
 Bu bir deneme projesi olup statik yapıdadır.
