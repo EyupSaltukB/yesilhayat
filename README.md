@@ -1,6 +1,6 @@
 <h1>  YeşilHayat Proje Denemesi</h1>
 
-Yazılım kursunun ilk haftalarında oluşturduğum ilk projelerdendir.
+Yazılım kursunun ilk haftalarında oluşturduğum bitkilerle ilgili bir projedir.
 Bu bir deneme projesi olup statik yapıdadır.
 
 <h2> Kullanılan Teknolojiler</h2>
